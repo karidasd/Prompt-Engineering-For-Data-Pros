@@ -24,6 +24,14 @@ This repository is a **Masterclass** designed specifically for Data Engineers, D
 
 *Αυτό το repository είναι ένας πλήρης οδηγός (Masterclass) που εξηγεί πώς τα "Αγγλικά είναι η νέα γλώσσα προγραμματισμού". Εδώ θα βρεις τα κορυφαία frameworks επικοινωνίας με την AI για να 10-πλασιάσεις την παραγωγικότητά σου.*
 
+### ⏳ The AI Evolution Pipeline
+To stay relevant, you must master the timeline of AI interaction:
+- 🟢 **2023 - 2024: Prompt Engineering** (Mastering the instruction. "How to ask the right question").
+- 🔵 **2025: Context** (Mastering RAG and Data Injection. "How to feed internal company data to the AI").
+- 🟣 **2026+: Loops** (Mastering Agentic Workflows. "How to make the AI iterate, fix its own bugs, and act autonomously").
+
+This Masterclass covers all three stages!
+
 ## 📚 Modules (Κεφάλαια)
 
 Navigate through the folders to explore the frameworks and find copy-pasteable **Prompt Templates**:
