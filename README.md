@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>The Evolution of the Problem Solver</h3>
-  <img src="assets/evolution_meme.png" alt="Evolution of Data Scientist Meme" width="800"/>
+  <img src="assets/pic.png" alt="Evolution of Data Scientist Meme" width="800"/>
   <p><i>We evolved from SPSS ➡️ R ➡️ Python ➡️ English.</i></p>
 </div>
 
