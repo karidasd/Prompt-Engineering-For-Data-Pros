@@ -44,6 +44,24 @@ Navigate through the folders to explore the frameworks and find copy-pasteable *
 6. [**06: Data Architecture Design**](./06_Data_Architecture_Design/) - Using LLMs to design cloud architectures (AWS/GCP/Azure).
 7. [**07: Self-Reflection & Correction**](./07_Self_Reflection_and_Correction/) - Forcing the LLM to review its own code for bugs.
 8. [**08: RAG Prompting Strategies**](./08_RAG_Prompting_Strategies/) - How to prompt when passing internal documents/context safely.
+9. [**09: Tree of Thoughts (ToT)**](./09_Tree_of_Thoughts_ToT/) - Instructing the AI to explore multiple paths and brainstorm.
+10. [**10: Prompt Injection & Security**](./10_Prompt_Injection_and_Security/) - How to write defensive prompts to protect your databases.
+11. [**11: LLM-as-a-Judge & Metrics**](./11_LLM_as_a_Judge_and_Metrics/) - Using LLMs to grade the outputs of other LLMs.
+
+---
+
+## 💻 The NL2SQL Agent (Real Application)
+
+Theory is good, but code is better. Inside the `src/` folder, you will find a **fully functional Python Application** (`ai_sql_generator.py`).
+
+It spins up a mock database and lets you talk to it in English. It uses Defensive Prompting to translate your English into SQL, executes it, and returns the results—while blocking malicious "DROP TABLE" attempts!
+
+**To run the app:**
+```bash
+cd src
+export OPENAI_API_KEY="your-key-here"
+python ai_sql_generator.py
+```
 
 ---
 
